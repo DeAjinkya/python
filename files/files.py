@@ -1,4 +1,4 @@
-f = open("/Users/ajinkyadeshmukh/Desktop/python/new/files/ajinkya.txt", "r")
+f = open("new/files/ajinkya.txt", "r")
 
 content = f.read()
 
