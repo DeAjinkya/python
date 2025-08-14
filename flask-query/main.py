@@ -1,7 +1,7 @@
 from flask import Flask,render_template,request
 
 app = Flask(__name__)
-# localhost/?name=jack&tokens=4000
+# 127.0.0.1/?name=jack&tokens=4000
 @app.route("/")
 def hello_world():
     name = "ajinkya"
