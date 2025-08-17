@@ -1,7 +1,7 @@
 # Program to check whether a number is even or odd
 
-# number = int(input("Enter a number: ")) # getting a number input to check for odd or even 
-number = 10
+number = int(input("Enter a number: ")) # getting a number input to check for odd or even 
+
 # checking number using the remainder
 
 if number % 2 == 0:
